@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My journey in Computer Science has been exciting and has taken me to various countries worldwide. I obtained my Ph.D. and M.Sc from the University of Sao Paulo in Brazil, then pursued further studies in the USA at the Georgia Institute of Technology, Canada's Dalhousie University, and France's IMT Atlantique. Throughout my academic career, I have focused on Network Science and Artificial Intelligence, and my research has contributed significantly to the field. Recently, I have been exploring neural-inspired models, graph-based deep learning, and complex network dynamics to enrich the area further. I am particularly eager to apply my knowledge to human behavior and ocean science problems, where technology and societal impact intersect.
+I am a Postdoctoral Fellow at the Institute for Big Data Analytics (IBDA) at Dalhousie University (DAL), Canada, co-hosted by the Oceanix group at IMT Atlantique, France. I have a Ph.D. and an MSc from the University of Sao Paulo, Brazil, with part of my doctoral research undertaken at the Georgia Institute of Technology, USA. I am longstanding involved in Data Science and Engineering, GeoInformatics, and Machine Learning. My research focuses on spatio-temporal data modeling, time-series forecasting, complex network analysis, and physics-informed neural networks, with a particular interest in mobility-related problems.
 
 - 📫 Email: spadon@{dal.ca, usp.br, gatech.edu} or gabriel@spadon.com.br
 - 🔭 Website: www.spadon.com.br
