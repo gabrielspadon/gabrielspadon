@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Postdoctoral Fellow at the Institute for Big Data Analytics (IBDA) at Dalhousie University (DAL), Canada, co-hosted by the Oceanix group at IMT Atlantique, France. I have a Ph.D. and an MSc from the University of Sao Paulo, Brazil, with a session at the Georgia Institute of Technology, USA. I am longstanding involved in Data Science and Engineering, GeoInformatics, and Machine Learning. My research focuses on spatio-temporal data modeling, time-series forecasting, complex network analysis, and physics-informed neural networks, with an interest in mobility-related problems.
+I am an Assistant Professor at the Faculty of Computer Science at Dalhousie University, Halifax - NS, Canada. I hold a Ph.D. and an MSc in Computer Science from the University of Sao Paulo, Sao Carlos - SP, Brazil. My research focuses on spatio-temporal analytics, time-series forecasting, and complex network mining, with a deep involvement in Data Science & Engineering and GeoInformatics and a particular interest in mobility and trajectory-related problems.
 
 - 📫 Email: spadon@{dal.ca, usp.br, gatech.edu} or gabriel@spadon.com.br
 - 🔭 Website: www.spadon.com.br
