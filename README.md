@@ -4,4 +4,4 @@ I am an Assistant Professor at the Faculty of Computer Science at Dalhousie Univ
 
 - 📫 Email: spadon@{[dal.ca](mailto:spadon@dal.ca), [usp.br](mailto:spadon@usp.br), [gatech.edu](mailto:spadon@gatech.edu)}
 - 🔭 Website: www.spadon.com.br
-- 🌱 Pronouns: he/his/him
+- 🌱 Pronouns: he/him
